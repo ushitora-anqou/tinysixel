@@ -8,6 +8,8 @@ See `example/` directory.
 
 ![](screenshot.png)
 
+More complicated demo is [here](https://twitter.com/ushitora_anqou/status/1173214625501855746).
+
 ## License
 
 MIT, except the following files:
