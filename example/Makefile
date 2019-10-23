@@ -1,2 +1,2 @@
 show_liquid: show_liquid.cpp
-	$(CXX) -o $@ $^
+	$(CXX) -std=c++11 -o $@ $^
