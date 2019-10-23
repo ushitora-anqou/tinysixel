@@ -1,6 +1,6 @@
 # TinySixel
 
-A header-only C++ library for [Sixel](https://en.wikipedia.org/wiki/Sixel).
+A header-only C++11 library for [Sixel](https://en.wikipedia.org/wiki/Sixel).
 
 ## Example
 
