@@ -43,7 +43,7 @@ private:
         // ? ... ~
         // - : LF (beginning of the next line)
         // $ : CR (beginning of the current line)
-        // #0;2;r;g;b : color
+        // #10;2;r;g;b : color
 
         std::vector<std::string> escaped_lines;
 
